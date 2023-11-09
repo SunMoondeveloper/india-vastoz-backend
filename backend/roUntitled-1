@@ -1,0 +1,42 @@
+{
+    studiname:"",
+    category:"",
+    language:"",
+    currency:"",
+    seotitle:"",
+    adult:"false",
+    firstname:"",
+    lastname:"",
+    email:"",
+    telephone:"",
+    companyname:"",
+    address:"",
+    city:"",
+    country:"",
+    postcode:"",
+    studiopagebio:"",
+    aboutstudio:"",
+    bannerimageurl:"",
+    profileimageurl:"",
+  }
+  value={values.password}
+
+  productname
+  vendorname
+  stock
+  price
+  discount
+  saleprice
+  commision
+  Refund Duration
+  Return Methods
+  Description
+  width
+  height
+  depth
+  vast link
+  product image
+
+  name="studioname"
+value={values.studioname}
+onChange={handleChange}

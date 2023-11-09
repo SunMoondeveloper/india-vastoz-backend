@@ -1,0 +1,155 @@
+{
+  "payload": {
+    "allShortcutsEnabled": false,
+    "fileTree": {
+      "": {
+        "items": [
+          { "name": "LICENSE", "path": "LICENSE", "contentType": "file" },
+          { "name": "README.md", "path": "README.md", "contentType": "file" },
+          {
+            "name": "USCities.json",
+            "path": "USCities.json",
+            "contentType": "file"
+          },
+          { "name": "bmb.png", "path": "bmb.png", "contentType": "file" }
+        ],
+        "totalCount": 4
+      }
+    },
+    "fileTreeProcessingTime": 2.304748,
+    "foldersToFetch": [],
+    "reducedMotionEnabled": null,
+    "repo": {
+      "id": 140205283,
+      "defaultBranch": "master",
+      "name": "US-Zip-Codes-JSON",
+      "ownerLogin": "millbj92",
+      "currentUserCanPush": false,
+      "isFork": false,
+      "isEmpty": false,
+      "createdAt": "2018-07-08T21:53:13.000Z",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/8295517?v=4",
+      "public": true,
+      "private": false,
+      "isOrgOwned": false
+    },
+    "symbolsExpanded": false,
+    "treeExpanded": true,
+    "refInfo": {
+      "name": "master",
+      "listCacheKey": "v0:1646148650.158771",
+      "canEdit": false,
+      "refType": "branch",
+      "currentOid": "a8964849d0ea3d3fa9eb18e57f20ac2cc41571f3"
+    },
+    "path": "USCities.json",
+    "currentUser": null,
+    "blob": {
+      "rawLines": null,
+      "stylingDirectives": [],
+      "csv": null,
+      "csvError": null,
+      "dependabotInfo": {
+        "showConfigurationBanner": false,
+        "configFilePath": null,
+        "networkDependabotPath": "/millbj92/US-Zip-Codes-JSON/network/updates",
+        "dismissConfigurationNoticePath": "/settings/dismiss-notice/dependabot_configuration_notice",
+        "configurationNoticeDismissed": null,
+        "repoAlertsPath": "/millbj92/US-Zip-Codes-JSON/security/dependabot",
+        "repoSecurityAndAnalysisPath": "/millbj92/US-Zip-Codes-JSON/settings/security_analysis",
+        "repoOwnerIsOrg": false,
+        "currentUserCanAdminRepo": false
+      },
+      "displayName": "USCities.json",
+      "displayUrl": "https://github.com/millbj92/US-Zip-Codes-JSON/blob/master/USCities.json?raw=true",
+      "headerInfo": {
+        "blobSize": "6.99 MB",
+        "deleteInfo": {
+          "deleteTooltip": "You must be signed in to make or propose changes"
+        },
+        "editInfo": {
+          "editTooltip": "You must be signed in to make or propose changes"
+        },
+        "ghDesktopPath": "https://desktop.github.com",
+        "gitLfsPath": null,
+        "onBranch": true,
+        "shortPath": "440ac52",
+        "siteNavLoginPath": "/login?return_to=https%3A%2F%2Fgithub.com%2Fmillbj92%2FUS-Zip-Codes-JSON%2Fblob%2Fmaster%2FUSCities.json",
+        "isCSV": false,
+        "isRichtext": false,
+        "toc": null,
+        "lineInfo": { "truncatedLoc": null, "truncatedSloc": null },
+        "mode": "file"
+      },
+      "image": false,
+      "isCodeownersFile": null,
+      "isPlain": false,
+      "isValidLegacyIssueTemplate": false,
+      "issueTemplateHelpUrl": "https://docs.github.com/articles/about-issue-and-pull-request-templates",
+      "issueTemplate": null,
+      "discussionTemplate": null,
+      "language": null,
+      "languageID": null,
+      "large": true,
+      "loggedIn": false,
+      "newDiscussionPath": "/millbj92/US-Zip-Codes-JSON/discussions/new",
+      "newIssuePath": "/millbj92/US-Zip-Codes-JSON/issues/new",
+      "planSupportInfo": {
+        "repoIsFork": null,
+        "repoOwnedByCurrentUser": null,
+        "requestFullPath": "/millbj92/US-Zip-Codes-JSON/blob/master/USCities.json",
+        "showFreeOrgGatedFeatureMessage": null,
+        "showPlanSupportBanner": null,
+        "upgradeDataAttributes": null,
+        "upgradePath": null
+      },
+      "publishBannersInfo": {
+        "dismissActionNoticePath": "/settings/dismiss-notice/publish_action_from_dockerfile",
+        "dismissStackNoticePath": "/settings/dismiss-notice/publish_stack_from_file",
+        "releasePath": "/millbj92/US-Zip-Codes-JSON/releases/new?marketplace=true",
+        "showPublishActionBanner": false,
+        "showPublishStackBanner": false
+      },
+      "rawBlobUrl": "https://github.com/millbj92/US-Zip-Codes-JSON/raw/master/USCities.json",
+      "renderImageOrRaw": true,
+      "richText": null,
+      "renderedFileInfo": null,
+      "shortPath": null,
+      "tabSize": 8,
+      "topBannersInfo": {
+        "overridingGlobalFundingFile": false,
+        "globalPreferredFundingPath": null,
+        "repoOwner": "millbj92",
+        "repoName": "US-Zip-Codes-JSON",
+        "showInvalidCitationWarning": false,
+        "citationHelpUrl": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files",
+        "showDependabotConfigurationBanner": false,
+        "actionsOnboardingTip": null
+      },
+      "truncated": true,
+      "viewable": false,
+      "workflowRedirectUrl": null,
+      "symbols": {
+        "timedOut": true,
+        "notAnalyzed": true,
+        "symbols": [],
+        "error": {
+          "code": "invalid_argument",
+          "msg": "content required",
+          "meta": {}
+        }
+      }
+    },
+    "copilotInfo": null,
+    "copilotAccessAllowed": false,
+    "csrf_tokens": {
+      "/millbj92/US-Zip-Codes-JSON/branches": {
+        "post": "MeYFHeHCj0MLAgpjgSKkQfm6awqcDj6YgaBbzXHJL206kmyKUjU8cw7ox3Zl8qgDr5DiN2h5Ygr02utMeUJUcw"
+      },
+      "/repos/preferences": {
+        "post": "lqZpAOlturdr6XAIkmin_xaQWE9TYX6_fzZc_2Em0fE-QEfICZVJqM38-UGjIFsSzrFQF0YlqlnVUvFKN3qbfQ"
+      }
+    }
+  },
+  "title": "US-Zip-Codes-JSON/USCities.json at master · millbj92/US-Zip-Codes-JSON"
+}
